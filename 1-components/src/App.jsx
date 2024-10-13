@@ -15,10 +15,4 @@ function App() {
   );
 }
 
-// const Greet = () => {
-//   return (
-//     <div>Greetings everyone !!!  Hello from Greet.jsx</div>
-//   )
-// }
-
 export default App;
